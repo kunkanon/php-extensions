@@ -1,6 +1,7 @@
 # php-extensions
-Compiled PHP extensions.
+## Compiled PHP extensions.
 
+### Windows
 1. Put the extension in the library folder under PHP's install path.
 
 2. Edit php.ini to load the extension.
